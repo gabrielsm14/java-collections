@@ -1,6 +1,5 @@
 package br.com.alura.praticando;
 
-import java.security.NoSuchAlgorithmException;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -9,8 +8,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.NoSuchElementException;
 import java.util.Set;
-
-import br.com.alura.Aluno;
 
 public class Curso1 {
 

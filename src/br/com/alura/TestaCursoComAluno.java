@@ -1,6 +1,5 @@
 package br.com.alura;
 
-import java.util.Iterator;
 import java.util.Set;
 
 public class TestaCursoComAluno {

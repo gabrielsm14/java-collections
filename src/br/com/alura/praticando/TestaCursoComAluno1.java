@@ -1,9 +1,5 @@
 package br.com.alura.praticando;
 
-import java.util.Collections;
-import java.util.Set;
-import br.com.alura.Aluno;
-
 public class TestaCursoComAluno1 {
 
 	public static void main(String[] args) {

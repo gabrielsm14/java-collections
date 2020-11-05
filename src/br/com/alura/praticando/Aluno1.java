@@ -1,7 +1,5 @@
 package br.com.alura.praticando;
 
-import br.com.alura.Aluno;
-
 public class Aluno1 {
 
 	private String nome;
